@@ -15,4 +15,11 @@ Steps:
 5.Now test the code and implement it 
 6.Now  go to amazon amplify and deploy it
 
+OUTPUT:
+
+1.![image](https://user-images.githubusercontent.com/96164963/232333759-ef685f50-7683-4c1d-bd8d-80941c973788.png)
+2.![image](https://user-images.githubusercontent.com/96164963/232333797-424ac06b-5ec4-4b8b-ab91-a5b927cbaffa.png)
+3.![image](https://user-images.githubusercontent.com/96164963/232333810-3322e91c-f06e-4b2a-9b0a-b0afb4059def.png)
+
+
 
